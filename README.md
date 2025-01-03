@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Thitanr
-- 👀 I’m interested in all kind of technology
-- 🌱 I’m currently learning different topics
-- 💞️ I’m looking to collaborate on whomever want to
-- 📫 How to reach me just write
-- 😄 Pronouns: ¿?
-- ⚡ Fun fact: I love coffee
+👋 Welcome to My GitHub!
 
-<!---
-Thitanr/Thitanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I’m @Thitanr aka Humberto. Here’s a little about me:
+
+    👀 Passionate about Technology: I’m fascinated by how technology shapes our world, and I’m always eager to dive into new ideas and tools.
+    🌱 Lifelong Learner: Currently exploring a wide range of topics, from coding to data science, and everything in between.
+    💡 Collaborator at Heart: I’m open to collaborating on exciting projects, so if you have an idea, let’s make it happen!
+    📬 Reach Me: Feel free to drop a message or connect through this platform.
+    ☕ Fun Fact: I’m fuelled by coffee and curiosity—perfect combo, right?
+    🌍 Pronouns: [Feel free to add or leave out].
+
+Thanks for stopping by—let’s create something amazing together! 🚀
